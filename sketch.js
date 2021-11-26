@@ -12,8 +12,6 @@ function preload() {
   backgroundImg = loadImage("./assets/background.png");
   baseimage = loadImage("./assets/base.png");
   playerimage = loadImage("./assets/player.png");
-  playerArcher = loadImage("./assets/playerArcher.png");
-  
 }
 
 function setup() {
